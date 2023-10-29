@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My To-Dos</string>
+    <string name="save">Save</string>
+    <string name="new_task">Add New Task</string>
+    <string name="tasks">My Tasks </string>
+    <string name="note">Scroll left to Delete and right to Edit your Tasks.</string>
+    <string name="welcomemsg">Welcome!!</string>
+</resources>
