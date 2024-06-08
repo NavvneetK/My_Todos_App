@@ -2,7 +2,7 @@
 
 My Todos App is a simple Android application built to help users manage their daily tasks efficiently.
 
-![App Screenshots](screenshots.png)
+![App Demo Video](Demo.mp4)
 
 ## Features
 
